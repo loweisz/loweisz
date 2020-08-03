@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h3 align="center">Hi there 👋</h3>
+<p align="center">
+  <a href="https://www.lorenzweiss.de/">Portfolio</a> |
+  <a href="https://www.lorenzweiss.de/blog">Blog</a> |
+  <a href="https://twitter.com/loweisz">Twitter</a>
+</p>
 <!--
 **loweisz/loweisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
