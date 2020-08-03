@@ -5,7 +5,7 @@
   <a href="https://twitter.com/loweisz">Twitter</a>
   <br />
   <br />
-  <img src="https://github.com/loweisz/loweisz/blob/master/penguin.gif" />
+  <img height="200px" src="https://github.com/loweisz/loweisz/blob/master/penguin.gif" />
 </p>
 <!--
 **loweisz/loweisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
