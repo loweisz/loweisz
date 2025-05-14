@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
   <a href="https://www.lorenzweiss.de/">Portfolio</a> |
-  <a href="https://www.lorenzweiss.de/blog">Blog</a> |
+  <a href="https://www.lorenzweiss.de/blog">Blog</a>
   <br />
   <br />
   <img height="200px" src="https://github.com/loweisz/loweisz/blob/master/penguin.gif" />
