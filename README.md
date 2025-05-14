@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://www.lorenzweiss.de/">Portfolio</a> |
   <a href="https://www.lorenzweiss.de/blog">Blog</a> |
-  <a href="https://twitter.com/loweisz">Twitter</a>
   <br />
   <br />
   <img height="200px" src="https://github.com/loweisz/loweisz/blob/master/penguin.gif" />
